@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ohoy! 👋
 
 <!--
 **johannabid/johannabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Solely here to experiment!
+You can reach me by mail - "bidt@proton.me"
