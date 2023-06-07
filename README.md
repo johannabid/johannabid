@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Solely here to experiment!
-You can reach me by mail - "bidt@proton.me"
+Solely here to experiment with coding and design
+
+Been working with HTML, CSS and a bit of JS. Wanting to learn more about JS.
+
+You can reach me by mail - bidt@proton.me
