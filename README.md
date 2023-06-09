@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Solely here to experiment with coding and design
+Solely here to experiment with design and coding
 
 Been working with HTML, CSS and a bit of JS. Wanting to learn more about JS.
 
